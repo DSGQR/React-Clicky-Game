@@ -8,12 +8,12 @@ import firebase from 'firebase'
 import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth'
 
 firebase.initializeApp({
-  apiKey: 'AIzaSyDNI18xuniXEQeRutDYj3cdjhFsaOhAZcc',
-  authDomain: 'pokemonclickygame.firebaseapp.com',
-  databaseURL: 'https://pokemonclickygame.firebaseio.com',
-  projectId: 'pokemonclickygame',
-  storageBucket: 'pokemonclickygame.appspot.com',
-  messagingSenderId: '427848233086'
+  apiKey: "AIzaSyDvhMbhCpEmsyuW9XaE5IsI-AdKerlVrsI",
+  authDomain: "r-clicky-game.firebaseapp.com",
+  databaseURL: "https://r-clicky-game.firebaseio.com",
+  projectId: "r-clicky-game",
+  storageBucket: "r-clicky-game.appspot.com",
+  messagingSenderId: "1089030637109"
 })
 
 const uiConfig = {

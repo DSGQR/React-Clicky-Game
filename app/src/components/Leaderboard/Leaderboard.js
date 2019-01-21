@@ -223,7 +223,6 @@ class LeaderBoard extends React.Component {
     this.setState({ rowsPerPage: event.target.value })
   }
 
-
   render() {
     const { classes } = this.props
     const { data, order, orderBy, selected, rowsPerPage, page } = this.state
