@@ -13,7 +13,8 @@ firebase.initializeApp({
   databaseURL: "https://r-clicky-game.firebaseio.com",
   projectId: "r-clicky-game",
   storageBucket: "r-clicky-game.appspot.com",
-  messagingSenderId: "1089030637109"
+  messagingSenderId: "1089030637109",
+  appId: "1:1089030637109:web:c361fce2ddac2ebc"
 })
 
 const uiConfig = {
